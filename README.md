@@ -36,6 +36,22 @@ An NLP model-based process was established and evaluated for populating the app 
 
 The following images demonstrate a user journey; a GIF demo is also shown above demonstrating the app's basic use. 
 
+|![](./assets/images/onboarding1.png)|![](./assets/images/onboarding2.png)|![](./assets/images/onboarding3.png)|![](./assets/images/onboarding4.png)|
+|:-:|:-:|:-:|:-:|
+|Onboarding 1|Onboarding 2|Onboarding 3|Onboarding 4|
+
+|![](./assets/images/homescreen.png)|![](./assets/images/signin.png)|![](./assets/images/register.png)|
+|:-:|:-:|:-:|
+|<div style="width:30vw">Home Screen</div>|<div style="width:30vw">Sign In Screen</div>|<div style="width:30vw">Register Screen</div>|
+
+|![](./assets/images/filter1.png)|![](./assets/images/filter2.png)|![](./assets/images/filter3.png)|![](./assets/images/filter4.png)|
+|:-:|:-:|:-:|:-:|
+|<div style="width:25vw">Filter Screen 1 (place type)</div>|<div style="width:25vw">Filter Screen 2 (Accessibility/dietary needs)</div>|<div style="width:25vw">Filter Screen 3 (Sensory requirements filter)</div>|<div style="width:25vw">Filter Screen 4 (select starting location</div>|
+
+|![](./assets/images/map.png)|![](./assets/images/poi_info_updated.png)|![](./assets/images/add_rating.png)|![](./assets/images/add_review.png)|![](./assets/images/upload_image.png)|
+|:-:|:-:|:-:|:-:|:-:|
+|Map|Place Information Screen|Add a User Rating Screen|Add a User Review Screen|Add a User Image Screen|
+
 
 ## Future Developments
 
