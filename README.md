@@ -55,11 +55,13 @@ The following images demonstrate a user journey; a GIF demo is also shown above 
 |:-:|:-:|:-:|
 |<div style="width:30vw">Home Screen</div>|<div style="width:30vw">Sign In Screen</div>|<div style="width:30vw">Register Screen</div>|
 
-|![](./assets/images/filter1.png)|![](./assets/images/filter2.png)|![](./assets/images/filter3.png)|![](./assets/images/filter4.png)|
+|<img src="./assets/images/filter1.png" height="350vh"/>|<img src="./assets/images/filter2.png" height="350vh"/>|<img src="./assets/images/filter3.png" height="350vh"/>|<img src="./assets/images/filter4.png" height="350vh"/>|
 |:-:|:-:|:-:|:-:|
-|<div style="width:25vw">Filter Screen 1 (place type)</div>|<div style="width:25vw">Filter Screen 2 (Accessibility/dietary needs)</div>|<div style="width:25vw">Filter Screen 3 (Sensory requirements filter)</div>|<div style="width:25vw">Filter Screen 4 (select starting location</div>|
+|<div style="width:35vw">Filter Screen 1 (Type of Place Filter)</div>|<div style="width:25vw">Filter Screen 2 (Accessibility and dietary needs)</div>|<div style="width:25vw">Filter Screen 3 (Sensory requirements filter)</div>|<div style="width:25vw">Filter Screen 4 (select starting location)</div>|
 
-|![](./assets/images/map.png)|![](./assets/images/poi_info_updated.png)|![](./assets/images/add_rating.png)|![](./assets/images/add_review.png)|![](./assets/images/upload_image.png)|
+<!--|Filter Screen 1 (place type)|Filter Screen 2 (Accessibility/dietary needs)|Filter Screen 3 (Sensory requirements filter)|Filter Screen 4 (select starting location|-->
+
+|<img src="./assets/images/map.png" height="400vh"/>|<img src="./assets/images/poi_info_updated.png" height="400vh"/>|<img src="./assets/images/add_rating.png" height="400vh"/>|<img src="./assets/images/add_review.png" height="400vh"/>|<img src="./assets/images/upload_image.png" height="400vh"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |Map|Place Information Screen|Add a User Rating Screen|Add a User Review Screen|Add a User Image Screen|
 
