@@ -14,13 +14,16 @@ A collaborative design process was used at every stage of the app's design and d
 
 <img src="https://github.com/drpollylang/Haven/blob/main/assets/videos/SensoryAppDemo.gif" alt="" style="height:60vh;">
 
+
 ## Figma Prototype
 
-<html>
-<body>
-<iframe src="https://www.figma.com/proto/JLrESGFHQUwG4JhRdR4zoR/SensoryAppPrototype?node-id=1-4&p=f&t=Az14fztphwjCUBYR-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1" width="800" height="600"></iframe>
-</body>
-</html>
+[View the interactive Figma prototype here](https://www.figma.com/proto/JLrESGFHQUwG4JhRdR4zoR/SensoryAppPrototype?node-id=1-4&p=f&t=Az14fztphwjCUBYR-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
+
+## Implementation: Tools and Frameworks
+
+- The app's user interface was developed using Flutter (Dart) and Android Studio IDE with an Android emulator.
+- Firebase was chosen as the backend option for the app, both to host the database and to handle user authentication, since it is integrated with Flutter and easy to learn, setup and use.
+- Python was used in the NLP model workflow to bootstrap the seed sensory information about places with which to initially populate the app (to ameliorate the cold start problem).
 
 ## Features
 
@@ -48,7 +51,7 @@ The following images demonstrate a user journey; a GIF demo is also shown above 
 |:-:|:-:|:-:|:-:|
 |Onboarding 1|Onboarding 2|Onboarding 3|Onboarding 4|
 
-|![](./assets/images/homescreen.png)|![](./assets/images/signin.png)|![](./assets/images/register.png)|
+|<img src="./assets/images/homescreen.png" width="200vw"/>|<img src="./assets/images/signin.png" width="200vw"/>|<img src="./assets/images/register.png" width="200vw"/>|
 |:-:|:-:|:-:|
 |<div style="width:30vw">Home Screen</div>|<div style="width:30vw">Sign In Screen</div>|<div style="width:30vw">Register Screen</div>|
 
