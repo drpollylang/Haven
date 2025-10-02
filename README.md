@@ -12,8 +12,9 @@ A collaborative design process was used at every stage of the app's design and d
 
 ## Video Demo
 
-<img src="https://github.com/drpollylang/Haven/blob/main/assets/videos/SensoryAppDemo.gif" alt="" style="height:60vh;">
-
+<p align="center">
+<img src="https://github.com/drpollylang/Haven/blob/main/assets/videos/SensoryAppDemo.gif" alt="" style="height:75vh;">
+</p>
 
 ## Figma Prototype
 
