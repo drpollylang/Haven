@@ -62,7 +62,7 @@ The following images demonstrate a user journey; a GIF demo is also shown above 
 
 <!--|Filter Screen 1 (place type)|Filter Screen 2 (Accessibility/dietary needs)|Filter Screen 3 (Sensory requirements filter)|Filter Screen 4 (select starting location|-->
 
-|<img src="./assets/images/map.png" height="400vh"/>|<img src="./assets/images/poi_info_updated.png" height="400vh"/>|<img src="./assets/images/add_rating.png" height="400vh"/>|<img src="./assets/images/add_review.png" height="400vh"/>|<img src="./assets/images/upload_image.png" height="400vh"/>|
+|<img src="./assets/images/map.png" height="350vh"/>|<img src="./assets/images/poi_info_updated.png" height="350vh"/>|<img src="./assets/images/add_rating.png" height="350vh"/>|<img src="./assets/images/add_review.png" height="350vh"/>|<img src="./assets/images/upload_image.png" height="350vh"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |Map|Place Information Screen|Add a User Rating Screen|Add a User Review Screen|Add a User Image Screen|
 
