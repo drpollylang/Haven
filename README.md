@@ -1,4 +1,4 @@
 # Haven
 ## A mobile app for helping autistic people find sensory-friendly places
 
-![](./assets/videos/SensoryAppDemo.mp4)
+![Demo video](assets/videos/SensoryAppDemo.mp4)
