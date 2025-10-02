@@ -37,5 +37,16 @@ An NLP model-based process was established and evaluated for populating the app 
 The following images demonstrate a user journey; a GIF demo is also shown above demonstrating the app's basic use. 
 
 
-
 ## Future Developments
+
+The app in its current state constitutes a minimum viable product, however interviews and evaluations with members of the target audience have raised many additional features and developments to be implemented in the future, including:
+
+- Adding a Search function that allows users to search for places by name for easy access
+- A user History function that enables users to scroll through a history of places that they recently viewed in the app. This will make returning to the page of places that they have viewed (for example, to contribute information about them to the app once they have visited in person) easier and more inviting.  
+- Including information about any autism friendly hours that places may accommodate, particularly any afternoon autism friendly hours that would be preferable for the many autistic people who keep `back to front' hours.
+- Displaying whether or not the place plays music, whether there are any times that they turn the music off, and what times they turn the music volume up or down.
+- Enabling users to upload audio recording as well as images, so that users can play back the audio recordings to directly ascertain the acoustics of the place.
+- Including social scripts for certain types of places, such as post offices, cinemas and supermarkets, that describe the step-by-step algorithm for conducting common operations in a particular environment. 
+- Adding an AI generated description of the place, or of each sensory aspect of the place. This would initially be based on reviews sourced from the Internet and later, once enough data had been collected, from the more targeted reviews contributed by the app's own users
+- Including easy-to-access processes through which users can feed back their experience of using the app, suggest any improvements and request additional features or information to be included. This will be crucial for the app's goal of iteratively developing in collaboration with the community it serves in order to maximise not only its utility and usability, but also their sense of empowerment.
+- Once enough user data regarding the sensory features of places has been collected, a high priority of future development will be analysing and displaying the sensory features as a function of time. In other words, showing how the sensory features of a place change over the course of a day, a week, or a year, similar to the busyness chart displayed by Google Maps. 
