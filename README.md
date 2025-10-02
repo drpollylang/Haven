@@ -14,6 +14,14 @@ A collaborative design process was used at every stage of the app's design and d
 
 <img src="https://github.com/drpollylang/Haven/blob/main/assets/videos/SensoryAppDemo.gif" alt="" style="height:60vh;">
 
+## Figma Prototype
+
+<html>
+<body>
+<iframe src="https://www.figma.com/proto/JLrESGFHQUwG4JhRdR4zoR/SensoryAppPrototype?node-id=1-4&p=f&t=Az14fztphwjCUBYR-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1" width="800" height="600"></iframe>
+</body>
+</html>
+
 ## Features
 
 The app includes:
