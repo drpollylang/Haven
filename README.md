@@ -6,3 +6,5 @@
 <video height="50vh" controls>
   <source src="https://github.com/drpollylang/Haven/blob/main/assets/videos/SensoryAppDemo.gif" type="video/gif">
 </video>
+
+<img src="https://github.com/drpollylang/Haven/blob/main/assets/videos/SensoryAppDemo.gif" alt="" style="height:60vh;">
